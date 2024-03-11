@@ -1,6 +1,7 @@
 <div align="center">
   <h3 align="center">Machine Learning Classification Models for Online User Advertisement Dataset</h3>
 </div>
+
 ## Introduction
 Welcome to this research project, where the focus lies on the intricate dynamics of user interactions with online advertisements. The dataset at the heart of this exploration encapsulates the richness of online user behavior, presenting a unique opportunity to delve into the factors influencing whether a user decides to click on a website or not. Leveraging a range of sophisticated machine learning models, this research seeks to unravel patterns within the data and construct predictive models that offer insights into user preferences, ultimately contributing to the optimization of online advertisement strategies.
 ## Objective
